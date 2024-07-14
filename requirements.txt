@@ -1,0 +1,7 @@
+opencv_python==4.9.0.80
+Pillow==9.4.0
+Pillow==10.4.0
+PyYAML==6.0.1
+PyYAML==6.0.1
+Requests==2.32.3
+tqdm==4.64.0
